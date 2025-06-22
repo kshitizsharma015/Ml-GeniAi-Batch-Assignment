@@ -1,0 +1,5 @@
+This is a sample text file.
+It has a few lines of text.
+Some lines might be longer than fifty characters just for testing.
+Short one.
+Another line here.
